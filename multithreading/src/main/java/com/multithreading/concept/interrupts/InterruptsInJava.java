@@ -4,7 +4,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
-
+/*
+ * https://dzone.com/articles/understanding-thread-interruption-in-java
+ */
 /*
  * Example Use Case
    1) The following are the requirements of the use case:
