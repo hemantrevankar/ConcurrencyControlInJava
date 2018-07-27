@@ -4,7 +4,9 @@ import java.util.Queue;
 import java.util.Random;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.CountDownLatch;
-
+/*
+ * https://www.javacodegeeks.com/2015/09/concurrency-fundamentals-deadlocks-and-object-monitors.html
+ */
 /*
  * WAIT()
  * wait() method is a final method defined in the Object.class
